@@ -14,7 +14,7 @@ PROJECT OVERVIEW
   •Preprocess images (resize, grayscale, normalize)
   •Classify images using a trained CNN model
   •Display prediction results and accuracy/confusion matrix
-  •Save processed images and export predictions
+  •Save processed images and export predictions.
 
 
 
