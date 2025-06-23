@@ -1,7 +1,7 @@
 CAT_DOG_IMAGE_PROCESSOR
 This is a Python-based tool designed to process, filter, and classify images of cats and dogs using image processing and basic machine learning techniques.
 
-PROJECT OVERVIEW
+PROJECT OVERVIEW:
 *Tech Stack
   •Python
   •OpenCV – for image preprocessing
